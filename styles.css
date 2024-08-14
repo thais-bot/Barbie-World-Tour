@@ -1,5 +1,5 @@
 body {
-    color:brack;
+    color:white;
     background:white;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
@@ -26,6 +26,8 @@ header {
 }
 
 h1 {
+    font-weight:bold;
+    font-family: bodoni;
     font-size: 50px;
 }
 
