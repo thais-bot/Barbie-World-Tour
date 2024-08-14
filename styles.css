@@ -1,6 +1,6 @@
 body {
-    color: pink;
-    background: black;
+    color:brack;
+    background:white;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
@@ -10,11 +10,11 @@ header {
     border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
     font-size: 32px;
-    color: rgb(250, 10, 106);
+    color: rgb(255, 22, 86)
 }
 
 .chamada {
-    background: rgb(250, 10, 106);
+    background: rgb(255, 22, 86);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -26,11 +26,11 @@ header {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 50px;
 }
 
 p {
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .categoria-videos {
@@ -40,8 +40,8 @@ p {
 }
 
 .categoria {
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
     margin-top: 50px;
 }
 
