@@ -1,6 +1,6 @@
 body {
     color:white;
-    background: rgb(250, 180, 221);
+    background: rgb(255, 219, 240);
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
@@ -37,7 +37,7 @@ color:white;
 }
 
 .categoria-videos {
-    background: rgb(250, 180, 221);
+    background: rgb(255, 219, 240);
     display: flex;
     overflow-x: auto;
     gap: 10px;
